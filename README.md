@@ -21,15 +21,15 @@ Users should be able to:
 
 ### Screenshot
 
-- Desktop Version (1440px)
+- Desktop Version (1440px) <br>
 ![](/screenshots/ss-desktop.png)
-- mobile Version (375px)
+- mobile Version (375px) <br>
 ![](/screenshots/ss-mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ/hub](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ/hub)
+- Live Site URL: [https://codebymm.github.io/fm__socialLinksProfile/](https://codebymm.github.io/fm__socialLinksProfile/)
 
 ## My process
 
